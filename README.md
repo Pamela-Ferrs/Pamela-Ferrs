@@ -13,13 +13,11 @@
  
 <br>
  
-  ### Pra conteúdo sobre programação me segue a gente nas redes abaixo!
+  ### Redes Sociais:
  
 <div>
   <a href="https://https://www.youtube.com/channel/UCu3wPxtQJqVk3dyYImBGG8g" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the- badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/pam.elfen" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the- badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href="https://discord.gg/Pamela#2513" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo= discord&logoColor=white" target="_blank"></a>
-  <a href = "pam.elfen@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" destino ="_blank"></a>
   <a href="https://www.linkedin.com/in/pamela-ferrs/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style= for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
  
   ![ Animação de cobra ](https://github.com/Pamela-Ferrs/Pamela-Ferrs/blob/output/github-contribution-grid-snake.svg)
